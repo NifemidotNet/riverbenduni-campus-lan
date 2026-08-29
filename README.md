@@ -14,9 +14,10 @@
 - Dynamic Routing with OSPF (single area)
 - NAT Overload/PAT
 - remote management via SSH (L2,L3)
-- Wireless LAN (Split-MAC central Switching - No FlexConnect)
-_was originally 3 buildings but...network congestion and QoS packet drops...updates will be made_
+- Wireless LAN (Split-MAC central Switching - No FlexConnect)\
+\
+_was originally 3 buildings but there were network congestion issues and QoS packet drops...updates will be made_
 
 ### Access credentials
-`enable secret ccna`
+`enable secret ccna`\
 `username riverbend secret ccna`
